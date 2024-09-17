@@ -1,6 +1,6 @@
-# Quant Internship Opportunities in APAC & EMEA
+# Quantitative Finance Internship Opportunities in APAC & EMEA
 
-Welcome to the **Quant Internship Opportunities** repository! This project aims to compile a comprehensive list of quantitative internship opportunities available in the APAC and EMEA regions.
+Welcome to the **Quantitative Finance Internship Opportunities** repository! This project aims to compile a comprehensive list of quantitative internship opportunities, focusing primarily on the APAC and EMEA regions.
 
 ## 📋 Table of Contents
 - [About](#about)
@@ -10,7 +10,7 @@ Welcome to the **Quant Internship Opportunities** repository! This project aims 
 
 ## 🌟 About
 
-This repository is a centralized resource for students and professionals seeking quantitative internships in the APAC and EMEA regions. Whether you're looking for opportunities in finance, data science, or related fields, this table will help you find relevant internships.
+This repository is a centralized resource (generated from decentralised contributions) for students and professionals seeking quantitative finance internships in the APAC and EMEA regions. Whether you're looking for opportunities in finance, data science, or related fields, this table will help you find relevant internships.
 
 ## 📊 Internship Table
 
