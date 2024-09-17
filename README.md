@@ -6,7 +6,6 @@ Welcome to the **Quantitative Finance Internship Opportunities** repository! Thi
 - [About](#about)
 - [Internship Table](#internship-table)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 About
 
