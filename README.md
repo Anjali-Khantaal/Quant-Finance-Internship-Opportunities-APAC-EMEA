@@ -41,6 +41,8 @@ Below is a list of quantitative finance internship opportunities (primarily in A
 | Goldman Sachs    | [2025 ; APEJ ; Hong Kong ; Global Investment Research ; Summer Analyst](https://higher.gs.com/roles/128818) | Hong Kong |           |
 | JP Morgan   | [Quantitative Finance Programs](https://careers.jpmorgan.com/us/en/students/programs/quant-fin-programs) | United States of America, Mainland China, Hong Kong SAR, China, Singapore, United Kingdom | More than one opportunities         |
 | JP Morgan   | [Markets Summer Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst) | Australia, France, Germany, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, South Korea, Taiwan, China, United Arab Emirates, United Kingdom, United States of America, Vietnam | More than one opportunities         |
+| JP Morgan   | [AI & Data Science](https://careers.jpmorgan.com/us/en/students/programs/data-analytics-opportunities) | Hong Kong SAR, China, United Kingdom, United States of America | More than one opportunities         |
+| JP Morgan   | [Asset Management Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/asset-management-summer-analyst) | United States of America, Canada, Hong Kong SAR, China, Singapore, Taiwan, China, United Kingdom | More than one opportunities         |
 
 ## 🤝 Contributing
 
