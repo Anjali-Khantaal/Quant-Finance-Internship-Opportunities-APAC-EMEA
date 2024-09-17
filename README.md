@@ -43,6 +43,9 @@ Below is a list of quantitative finance internship opportunities (primarily in A
 | JP Morgan   | [Markets Summer Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/markets-summer-analyst) | Australia, France, Germany, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, South Korea, Taiwan, China, United Arab Emirates, United Kingdom, United States of America, Vietnam | More than one opportunities         |
 | JP Morgan   | [AI & Data Science](https://careers.jpmorgan.com/us/en/students/programs/data-analytics-opportunities) | Hong Kong SAR, China, United Kingdom, United States of America | More than one opportunities         |
 | JP Morgan   | [Asset Management Analyst Program](https://careers.jpmorgan.com/us/en/students/programs/asset-management-summer-analyst) | United States of America, Canada, Hong Kong SAR, China, Singapore, Taiwan, China, United Kingdom | More than one opportunities         |
+| Morgan Stanley  | [2025 Institutional Equity Division Quantitative Finance Summer Analyst / Associate Program (Hong Kong)](https://morganstanley.tal.net/vx/brand-0/spa-1/candidate/so/pm/1/pl/1/opp/18011-2025-Institutional-Equity-Division-Quantitative-Finance-Summer-Analyst-Associate-Program-Hong-Kong/en-GB) | Hong Kong |          |
+| Morgan Stanley  | [2025 Japan Summer Analyst Program (Tokyo)](https://morganstanley.tal.net/vx/mobile-0/brand-2/spa-1/candidate/so/pm/1/pl/1/opp/18049-2025-Japan-Summer-Analyst-Program-Tokyo/en-GB) | Tokyo | Includes opportunities in quantitative finance; minimal language barrier         |
+| Morgan Stanley  | [2025 Fixed Income Division Industrial Placement / Summer Analyst Program (Hong Kong / Singapore)](https://morganstanley.tal.net/vx/brand-0/spa-1/candidate/so/pm/1/pl/1/opp/18014-2025-Fixed-Income-Division-Industrial-Placement-Summer-Analyst-Program-Hong-Kong-Singapore/en-GB) | Hong Kong/Singapore | Includes market-making and trade execution process        |
 
 ## 🤝 Contributing
 
