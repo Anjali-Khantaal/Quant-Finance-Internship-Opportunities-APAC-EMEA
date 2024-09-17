@@ -35,6 +35,10 @@ Below is a list of quantitative finance internship opportunities (primarily in A
 | Citi    | [2025, Capital Markets, Summer Analyst, London, United Kingdom](https://jobs.citi.com/job/london/2025-capital-markets-summer-analyst-london-united-kingdom/287/69468177408) | London |           |
 | Citi    | [Markets - Financing, Sales & Trading, Summer Analyst, London - UK, 2025](https://jobs.citi.com/job/london/markets-financing-sales-and-trading-summer-analyst-london-uk-2025/287/69468389792) | London |           |
 | Citi    | [Markets - Markets, Summer Analyst, Hong Kong - APAC, 2025](https://jobs.citi.com/job/hong-kong/markets-markets-summer-analyst-hong-kong-apac-2025/287/69546554832) | Hong Kong |           |
+| Goldman Sachs    | [2025 ; EMEA ; London ; Asset Management, Quantitative Investing ; Summer Analyst](https://higher.gs.com/roles/128612) | London |           |
+| Goldman Sachs    | [2025 ; EMEA ; London ; Wealth Management, Quantitative Finance ; Summer Analyst](https://higher.gs.com/roles/128601) | London |           |
+| Goldman Sachs    | [2025 ; APEJ ; Hong Kong ; Wealth Management, Quantitative Finance ; Summer Analyst](https://higher.gs.com/roles/128769) | Hong Kong |           |
+| Goldman Sachs    | [2025 ; APEJ ; Hong Kong ; Global Investment Research ; Summer Analyst](https://higher.gs.com/roles/128818) | Hong Kong |           |
 
 ## 🤝 Contributing
 
