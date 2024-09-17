@@ -35,4 +35,4 @@ Below is a list of quantitative finance internship opportunities (primarily in A
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Please see the [Contributing Guidelines](CONTRIBUTING.md) for more details.
+Feel free to contribute to this table! Please see the [Contributing Guidelines](CONTRIBUTING.md) for more details.
