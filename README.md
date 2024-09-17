@@ -16,7 +16,15 @@ This repository is a centralized resource (generated from decentralised contribu
 
 ## 📊 Internship Table
 
-The internships are listed in the [`internships.md`](internships.md) file. Feel free to browse and contribute!
+# Quantitative Finance Internship Opportunities
+
+Below is a list of quantitative finance internship opportunities (primarily in APAC and EMEA regions). If you have information about an internship not listed here, please [contribute](#contributing)!
+
+| **Company**          | **Internship Title**   | **Additional Notes**            |
+|----------------------|------------------------|---------------------------------|
+| [Company Name](#)    | [Internship Title](#)  | Additional info                 |
+| [Company Name](#)    | [Internship Title](#)  | Additional info                 |
+| *Add more rows below*|                        |                                 |
 
 ## 🤝 Contributing
 
