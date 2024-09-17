@@ -12,6 +12,8 @@ Welcome to the **Quantitative Finance Internship Opportunities** repository! Thi
 
 This repository is a centralized resource (generated from decentralised contributions) for students and professionals seeking quantitative finance internships in the APAC and EMEA regions. Whether you're looking for opportunities in finance, data science, or related fields, this table will help you find relevant internships.
 
+**Note:** This is an initiative by the members of **QuantFin — Quantitative Finance Club, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**.
+
 ## 📊 Internship Table
 
 The internships are listed in the [`internships.md`](internships.md) file. Feel free to browse and contribute!
