@@ -10,7 +10,7 @@ Thank you for your interest in contributing to this repository! Here are some gu
 2. **Clone the Repository**
    - Clone your forked repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/Quant-Internship-Opportunities-APAC-EMEA.git
+     git clone https://github.com/your-username/Quant-Finance-Internship-Opportunities-APAC-EMEA.git
      ```
 
 3. **Create a Branch**
@@ -25,7 +25,7 @@ Thank you for your interest in contributing to this repository! Here are some gu
 5. **Commit Your Changes**
    - Commit your changes with a clear message:
      ```bash
-     git commit -m "Add [Company Name] Quant Internship in [Region]"
+     git commit -m "Add [Company Name] Quantitative Finance Internship in [Region/City]"
      ```
 
 6. **Push to Your Fork**
