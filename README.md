@@ -24,7 +24,8 @@ Below is a list of quantitative finance internship opportunities (primarily in A
 |----------------------|------------------------|---------------------------------|
 | Barclays    | [Sales, Trading and Structuring Summer Internship Programme 2025 Hong Kong](https://search.jobs.barclays/job/hong-kong/sales-trading-and-structuring-summer-internship-programme-2025-hong-kong/13015/68267852816) |                  |
 | Barclays    | [Sales, Trading and Structuring Summer Internship Programme 2025 Singapore](https://search.jobs.barclays/job/singapore/sales-trading-and-structuring-summer-internship-programme-2025-singapore/13015/68267838288) |                 |
-| *Add more rows below*|                        |                                 |
+| Barclays    | [Quantitative Analytics Associate Off Cycle Internship 2025 Hong Kong](https://search.jobs.barclays/job/hong-kong/quantitative-analytics-associate-off-cycle-internship-2025-hong-kong/13015/69192544912) | Associate-level: Postgraduate; Off-cycle @ Barclays: 3-6 months                |
+| Barclays    | [Quantitative Analytics Associate Off Cycle Internship 2025 Singapore](https://search.jobs.barclays/job/singapore/quantitative-analytics-associate-off-cycle-internship-2025-singapore/13015/69192544800) | Associate-level: Postgraduate; Off-cycle @ Barclays: 3-6 months                |
 
 ## 🤝 Contributing
 
