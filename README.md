@@ -19,7 +19,3 @@ The internships are listed in the [`internships.md`](internships.md) file. Feel 
 ## 🤝 Contributing
 
 We welcome contributions from the community! Please see the [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
