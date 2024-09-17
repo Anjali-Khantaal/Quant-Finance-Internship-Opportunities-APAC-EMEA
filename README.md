@@ -1,4 +1,4 @@
-# Quantitative Finance Internship Opportunities in APAC & EMEA
+# Summer 2025 Quantitative Finance Internship Opportunities in APAC & EMEA
 
 Welcome to the **Quantitative Finance Internship Opportunities** repository! This project aims to compile a comprehensive list of quantitative internship opportunities, focusing primarily on the APAC and EMEA regions.
 
