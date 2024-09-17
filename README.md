@@ -22,7 +22,7 @@ Below is a list of quantitative finance internship opportunities (primarily in A
 
 | **Company**          | **Internship Title**   | **Additional Notes**            |
 |----------------------|------------------------|---------------------------------|
-| Barclays    | [Sales, Trading and Structuring Summer Internship Programme 2025 Hong Kong](#https://search.jobs.barclays/job/hong-kong/sales-trading-and-structuring-summer-internship-programme-2025-hong-kong/13015/68267852816#anchor-description)  | Additional info                 |
+| Barclays    | [Sales, Trading and Structuring Summer Internship Programme 2025 Hong Kong](https://search.jobs.barclays/job/hong-kong/sales-trading-and-structuring-summer-internship-programme-2025-hong-kong/13015/68267852816#anchor-description)  | Additional info                 |
 | [Company Name](#)    | [Internship Title](#)  | Additional info                 |
 | *Add more rows below*|                        |                                 |
 
